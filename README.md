@@ -1,6 +1,6 @@
 ## 📌<b> Introduction :- </b>
 
-A Natural Language Processing with SMS Data to predict whether the SMS is Spam/Ham with various ML Algorithms like 
+A Machine Learning Processing with SMS Data to predict whether the SMS is Spam/Ham with various ML Algorithms like 
 MultinomialNB, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier, AdaBoostClassifier, BaggingClassifier, ExtraTreesClassifier, GradientBoostingClassifier, XGBClassifier to compare accuracy and using various data cleaning and processing techniques like 
 PorterStemmer, CountVectorizer, TFIDF Vetorizer. It is implemented using MultinomialNB to gain accuracy of 97.09%.
 
