@@ -22,3 +22,6 @@ PorterStemmer, CountVectorizer, TFIDF Vetorizer. It is implemented using Multino
 - Classification Model Testing 
 - Model Results
 - Perfomance Evaluation
+
+## LICENSE
+[MIT](LICENSE)
