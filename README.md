@@ -18,10 +18,10 @@ PorterStemmer, CountVectorizer, TFIDF Vetorizer. It is implemented using Multino
 - Data Cleaning
 - EDA
 - Data Preprocessing
-- Classification Model Buiding
+- Classification Model Building
 - Classification Model Testing 
 - Model Results
-- Perfomance Evaluation
+- Performance Evaluation
 
 ## LICENSE
 [MIT](LICENSE)
